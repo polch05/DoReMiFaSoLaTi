@@ -1,1 +1,2 @@
-set name = Christohper;
+set name = Christopher;
+set surname = Pola;
