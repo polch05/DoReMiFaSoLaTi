@@ -9,7 +9,6 @@ Adding a new edit + commit Jan 20th, 2020.
 To configure the Rally Bot GitHub integration go here: https://github.com/apps/rally-bot
 
 Another branch is going to go here: https://rally1.rallydev.com/#/detail/userstory/316084381000?fdp=true...
-T R U E US907
 
 New P u l l R e q u e s t here.
 Happy times...
