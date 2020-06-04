@@ -17,4 +17,6 @@ const chiamo = pm.response.json();
 function()
 
 How to link the PR to the User Story. Follow these instructions:
-a). abc
+a). Step 1
+b). Step 2
+c). Paste URL into PR Comment/Message
