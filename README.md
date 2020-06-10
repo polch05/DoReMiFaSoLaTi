@@ -20,3 +20,5 @@ How to link the PR to the User Story. Follow these instructions:
 a). Step 1
 b). Step 2
 c). Paste URL into PR Comment/Message
+
+New update on June 10th, 2020. This is a quick update to test the current functionality.
