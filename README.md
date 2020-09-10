@@ -24,4 +24,4 @@ c). Paste URL into PR Comment/Message
 PR NAB
 PR for Ignite. Creating a change in the code. Adding some text. Sept 10th, 2020.
 <br>
-<p></p>
+<p>You can do a PR after making edits. You make the edits and either Commit or create a PR.</p>
