@@ -25,3 +25,5 @@ PR NAB
 PR for Ignite. Creating a change in the code. Adding some text. Sept 10th, 2020.
 <br>
 <p></p>
+
+This edit is for cfg_obj to update Node IP when the DB container is restarted on the Rally Adapter for Jira.
