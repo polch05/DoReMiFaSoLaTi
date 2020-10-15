@@ -25,3 +25,5 @@ PR NAB
 PR for Ignite. Creating a change in the code. Adding some text. Sept 10th, 2020.
 <br>
 <p>You can do a PR after making edits. You make the edits and either Commit or create a PR.</p>
+<p>New code on Oct 14th, 2020</p>
+cfg_obj was updated for the Node IP value.
